@@ -33,6 +33,7 @@ int main(void) {
         }
 
         printf("\n\n__________Prompt____________________________________\n\n");
+        free(entry_arr);
     }
 }
 
